@@ -11,3 +11,4 @@ srcDir        = "src"
 # Dependencies
 
 requires "nim >= 0.20.0"
+requires "nimPNG >= 0.2.4"
